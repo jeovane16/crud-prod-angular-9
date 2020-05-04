@@ -1,1 +1,1 @@
-CRUD de usuário construido com Angular
+CRUD de produtos construido com Angular
