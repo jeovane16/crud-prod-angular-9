@@ -6,6 +6,7 @@
 .header a {
     display: flex;
     align-items: center;
+    justify-content: center;
     text-decoration: none;
 }
 
@@ -15,7 +16,7 @@
 }
 
 .header .title-group {
-    padding-left: 35px;
+    padding-left: 25px;
 }
 
 .header .title-group i {
