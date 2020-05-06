@@ -1,14 +1,19 @@
 {
   "products": [
     {
-    "id": 1,
-    "name": "Caneta",
-    "price": 5.30
-  },
+      "id": 1,
+      "name": "Caneta",
+      "price": 5.3
+    },
     {
       "id": 2,
       "name": "Notebook",
-      "price": 2500.00
+      "price": 2500
+    },
+    {
+      "name": "produto teste",
+      "price": 111.11,
+      "id": 3
     }
   ]
 }
