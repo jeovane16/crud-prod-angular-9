@@ -2,22 +2,22 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta",
+      "name": "produto teste 1",
       "price": 5.3
     },
     {
       "id": 2,
-      "name": "Notebook",
+      "name": "produto teste 2",
       "price": 2500
     },
     {
-      "name": "produto teste",
+      "name": "produto teste 3",
       "price": 111.11,
       "id": 3
     },
     {
-      "name": "teste2",
-      "price": "9.99",
+      "name": "produto teste 4",
+      "price": "2.25",
       "id": 4
     }
   ]
