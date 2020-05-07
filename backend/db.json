@@ -1,24 +1,39 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "produto teste 1",
-      "price": 5.3
+      "name": "Caneta",
+      "price": "1.25",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "produto teste 2",
-      "price": 2500
+      "name": "Borracha",
+      "price": "0.99",
+      "id": 2
     },
     {
-      "name": "produto teste 3",
-      "price": 111.11,
+      "name": "Apontador",
+      "price": "1.09",
       "id": 3
     },
     {
-      "name": "produto teste 4",
-      "price": "2.25",
+      "name": "Grafite 0.7",
+      "price": "3.75",
       "id": 4
+    },
+    {
+      "name": "Marcador de texto",
+      "price": "5.20",
+      "id": 5
+    },
+    {
+      "name": "Lápis",
+      "price": "1.30",
+      "id": 6
+    },
+    {
+      "name": "Pontas 0.7",
+      "price": "2.33",
+      "id": 7
     }
   ]
 }
